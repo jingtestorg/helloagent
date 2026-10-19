@@ -1,0 +1,10 @@
+apiVersion: solution.sap/v1
+kind: Solution
+
+metadata:
+  name: greeting-agent-aaa44
+  version: "1.0.0"
+  description: "Simple greeting AI agent proof of concept"
+
+assets:
+  - ref: ./assets/greeting-agent/asset.yaml
