@@ -5,6 +5,7 @@ type: agent
 metadata:
   name: greeting-agent
   version: "1.0.0"
+  description: "greeting agent"
 
 provides:
   apis:
